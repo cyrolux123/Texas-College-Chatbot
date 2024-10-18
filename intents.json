@@ -1,0 +1,173 @@
+{"intents":[
+    {"tag":"greeting",
+    
+    "patterns":["Hi","Hey","Hello","Good day","Hey there","hlo",
+    "What's happenin'?","How's it going","What's up?","Sup?",
+    "G'day!","It's good to see you","What's new","How are things with you?",
+    "It's a pleasure to meet you","It's nice to meet you","Is anyone there?","What's new?"],
+    
+    "responses":["Hello","Hi there","HI, How can I help You?","Hey"],
+    
+    "context_set":" "
+    },
+    
+    
+    
+    
+    {"tag":"goodbye",
+    
+    
+    "patterns":["cya","see you later","Goodbye","I am leaving","Have a good day",
+    "Leave-taking","Adios","Parting","Cheerio","Adieu","Toodle-oo","Ciao",
+    "Bye","Bye Bye"],
+    
+    "responses":["sad to see you go:(","Goodbye","Bye Bye","Bye","See ya!!","Take it easy","I'm off too"],
+    
+    "context_set":" "
+    },
+    
+    
+    
+    
+    {"tag":"location",
+    
+    
+    "patterns":["Where are you localized?","What's your loation?","Where are you located?",
+    "Where are you placed?","Where are you positioned?","Where are you situated?","Where are you?",
+    "Where is you?","How can i found You?","Where are you sited?",
+    "Where are you housed?","Where are you localised","Where are you based?",
+    "Where are you implanted?","Where are you iocated","Where are you nestled?",
+    "Where are you stationed?","Where are you establised?","Where are you set?",
+    "Where are you rigid?","Where are you laid?","Where are you based?",
+    "How can i found you?","Where are you installed?"],
+    
+    "responses":["We have two college buildings; one near Mitrapark chowk and the other near Siphal",
+    "We have multiple buildings located around Mitrapark","We are located around Mitrapark",
+    "You can reach at Mitrapark and follow local guidelines or Google Map"],
+    
+    
+    "context_set":" "
+    },
+
+    {"tag":"name",
+
+"patterns":["What is your name?","What should I call you?","Whats your name?","Who are you?",
+"Whas your name?","What your name is?","naem?","name?","What name?",
+"You got a name?","Tell me your name?","What your name?","What do you say your name?"],
+
+"responses":["I am the Chatbot of Texas College",
+"I don't have a name, but you can call me TexasAIChatbot",
+"I am the interactive agent of Texas College"],
+
+"context_set":" "
+},
+
+
+
+
+{"tag":"service",
+
+"patterns":["I'd like to know about you something?","What do you serve?","What do you recommend?",
+"What are you for?","What facilities you provide","What do you do?",
+"What kind of institution you are?"],
+
+"responses":["I belong to one of the best IT and Management colleges of Nepal, Texas International college and Texas College of Management and IT.Texas college of Management & IT is the best Management, Hotel Management and IT college providing the International education. We believe in imparting the the practical education through the modern educational pedagogy. Along with academic excellence students can enhance themselves in professional careers. Texas is the top College providing the best and practical education. We have always tried to minimise the gap between academy and industry."],
+
+"context_set":" "
+},
+
+
+
+
+{"tag":"hours",
+
+"patterns":["When are you guys open?","What are your hours?","Hours of operation",
+"Are you open now?","What is your operation time?","What time you are available?",
+"Are you open?","When can i come to you?","What are your operation times?",
+"What is the office time?","What time are you serve?","What is your operation hours?",
+"When are you open?","What time are you available?","Are you open now?"],
+
+"responses":["Our administration opens 5AM-7PM everyday.We also provide the services through web, so we are available 24/7"],
+
+"context-set":" "
+},
+
+
+
+
+
+{"tag":"contact",
+
+"patterns":["website?","website please","phone number?","phone number please?","How can I contact you?",
+"How can i find you?","Where can I find you?","How can we meet you?","Do you have a website?",
+"website please","May I know your website address?","What web do you got?","phone number please",
+"number please","Have you got a phone number?","May I get your number?"],
+
+"responses":["You can visit our website at texasintl.edu.np or texascollege.edu.np or contact us at 01-4588627"],
+
+"context_set":" "
+},
+
+
+
+
+{"tag":"courses",
+
+"patterns":["What courses do you offer?","What types of courses do you run?","What are your courses categories?"],
+
+"responses":["Some of our universities courses include BIT, BBA, BBM, BCA, BCS( CYBER SECURITY), BScCSIT, BBS, BA, BSW, etc. and we also have montessori,schooling, +2 and master courses."],
+
+"context_set":" "
+},
+
+
+
+
+{"tag":"hodcbit",
+
+"patterns":["Who is the HOD of CSIT/BCA?","Who is Kumar Paudyal?","Who is the head of CSIT?","Who runs the CSIT/BCA?"],
+
+
+"responses":["Mr. Kumar Paudyal is the HOD of CSIT/BCA who is best known for Genuineness and Versatility.His contact no. is 9843279104"],
+
+"context_set":" "
+},
+
+
+
+{"tag":"hodit",
+
+"patterns":["Who is the HOD of IT?","Who is Suman Thapaliya","Who handles the IT of Texas College?","Who is at the frontline of IT?"],
+
+
+"responses":["Mr. Suman Thapaliya, a very young and versatile member of Texas College, has been running IT department very efficienty and genuinly. 98912454481 is his contact number."],
+
+"context_set":" "
+},
+
+
+
+
+{"tag":"priandceo",
+
+"patterns":["What is the name of pricipal?","Who is the CEO?","Who is the principal and CEO",
+"Who is the principal?","Who is Mr. Bhesraj Pokherel?"],
+
+"responses":["Mr.Bhesraj Pokherel is the CEO and principal of Texas College. He is best known for his intelligent thoughts and friendly behaviour with students and faculties whom you can contact at; 9814821428 "],
+
+"context_set":" "
+},
+
+
+{"tag":"coordinator",
+
+"patterns":["What is the name of Digital Media Coordinator?","Who is the DMC?","Who is the Digital Media Coordinator?",
+"Who is Prabin Khadka?"],
+
+"responses":["Mr. Prabin Khadka, the most Handsome and Humble faculty of Texas College is designated as Digital Media Coordinator. You can call him at 9814882280"],
+
+"context-set":" "
+}
+
+]
+}
